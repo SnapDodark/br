@@ -87,11 +87,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Mapeamento dos valores das ofertas para os links de checkout
     const checkoutLinks = {
-        '800': 'https://seu-link-de-checkout-para-800-roblux',
-        '1000': 'https://seu-link-de-checkout-para-1000-roblux',
-        '2000': 'https://seu-link-de-checkout-para-2000-roblux',
-        '5200': 'https://seu-link-de-checkout-para-5200-roblux',
-        '10000': 'https://seu-link-de-checkout-para-10000-roblux'
+        '800': 'https://go.tribopay.com.br/49iz6',
+        '1000': 'https://go.tribopay.com.br/vxs1k',
+        '2000': 'https://go.tribopay.com.br/pciyp ',
+        '5200': 'https://go.tribopay.com.br/dmfp4',
+        '10000': 'https://go.tribopay.com.br/1y7qu'
     };
 
     function updateProductInfo() {
